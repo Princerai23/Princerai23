@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm 22 and completed my Graduation in Web Development<br>📚 I'm currently working as a freelancer as Php/Laravel Developer<br>🎯 My Goal is to Become a Full Stack Developer <br>🎲 My experience is more than on year</p>
+<p align="left">✨ I'm 22 and completed my Graduation in Web Development<br>📚 I'm currently working as Php/Laravel Developer / FullStack Developer in Get e Ideas<br>🎲 i have experience of 5.5 years</p>
 
 ###
 
